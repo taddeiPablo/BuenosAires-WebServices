@@ -1,0 +1,123 @@
+X;Y;NRO_BANCO;NOMBRE;OBJETO;SUCURSAL;BARRIO;COMUNA;FUNCION;TELEFONO;DETALLE;DIRECCION
+-58.46486434;-34.60267516;5;HSBC;Banco;Capital federal;PATERNAL;15;Visual y Audio;;;SAN MARTIN AV. 2799
+-58.44070294;-34.59837421;3;ICBC;Banco;Villa Crespo;VILLA CRESPO;15;Visual y Audio;;;CORRIENTES AV. 5386
+-58.44595264;-34.60727645;7;Banco Patagonia;Banco;CABA;VILLA CRESPO;15;Visual y Audio;;;GAONA AV. 1129
+-58.44061384;-34.59845689;7;Banco Patagonia;Banco;CABA;VILLA CRESPO;15;Visual y Audio;;;CORRIENTES AV. 5376
+-58.49270429;-34.60318873;2;Comafi;Banco;Villa del Parque;VILLA DEL PARQUE;11;Visual y Audio;4503-3517;;NOGOYA 3135
+-58.49785555;-34.59761007;5;HSBC;Banco;Capital federal;VILLA DEL PARQUE;11;Visual y Audio;;;CUENCA 3479
+-58.41844678;-34.60324558;3;ICBC;Banco;Almagro;ALMAGRO;5;Visual y Audio;;;CORRIENTES AV. 3829
+-58.4244709;-34.60300756;1;Macro;Banco;Almagro;ALMAGRO;5;Visual y Audio;;Ingreso a nivel;CORRIENTES AV. 4222
+-58.42693464;-34.61428495;4;Santander Rio;Banco;Capital federal;ALMAGRO;5;Visual y Audio;;;RIVADAVIA AV. 4364
+-58.43064676;-34.60238936;4;Santander Rio;Banco;Capital federal;ALMAGRO;5;Visual, audio y rampa;;;CORRIENTES AV. 4626
+-58.42871261;-34.61654711;4;Santander Rio;Banco;Capital federal;ALMAGRO;5;Visual y Audio;;;LA PLATA AV. 140
+-58.41826279;-34.61082561;4;Santander Rio;Banco;Capital federal;ALMAGRO;5;Visual y Audio;;;RIVADAVIA AV. 3681
+-58.42481472;-34.60662201;5;HSBC;Banco;Capital federal;ALMAGRO;5;Visual, audio y rampa;;;GASCON 450
+-58.42474798;-34.6057807;5;HSBC;Banco;Capital federal;ALMAGRO;5;Visual y Audio;;;PERON, JUAN DOMINGO, TTE. GENERAL 4111
+-58.4286506;-34.60854384;7;Banco Patagonia;Banco;CABA;ALMAGRO;5;Visual y Audio;;;DIAZ VELEZ AV. 4363
+-58.42344427;-34.61274108;7;Banco Patagonia;Banco;CABA;ALMAGRO;5;Visual y Audio;;;RIVADAVIA AV. 4100
+-58.44000828;-34.61967269;1;Macro;Banco;Capital federal;CABALLITO;6;Visual y Audio;;Ingreso a nivel;RIVADAVIA AV. 5273
+-58.43996804;-34.62006409;2;Comafi;Banco;Caballito;CABALLITO;6;Visual y Audio;;;RIVADAVIA AV. 5288
+-58.43939857;-34.6198113;3;ICBC;Banco;Caballito;CABALLITO;6;Visual y Audio;;;RIVADAVIA AV. 5240
+-58.43876293;-34.61911985;4;Santander Rio;Banco;Capital federal;CABALLITO;6;Visual y Audio;;;RIVADAVIA AV. 5173
+-58.43988051;-34.62068978;4;Santander Rio;Banco;Capital federal;CABALLITO;6;Visual y Audio;;;ROSARIO 804
+-58.43751413;-34.61856546;5;HSBC;Banco;Capital federal;CABALLITO;6;Visual y Audio;;;RIVADAVIA AV. 5075
+-58.50243137;-34.61820829;4;Santander Rio;Banco;Floresta;MONTE CASTRO;10;Visual y Audio;;;ALVAREZ JONTE AV. 4502
+-58.50511712;-34.6196329;7;Banco Patagonia;Banco;CABA;MONTE CASTRO;10;Visual y Audio;;;ALVAREZ JONTE AV. 4740
+-58.52741277;-34.61552926;7;Banco Patagonia;Banco;CABA;VILLA REAL;10;Visual y Audio;;;BEIRO, FRANCISCO AV. 5491
+-58.4547325;-34.62570486;1;Macro;Banco;Capital federal;FLORES;7;Visual y Audio;;Ingreso a nivel;RIVADAVIA AV. 6245
+-58.46069292;-34.62844071;2;Comafi;Banco;Flores;FLORES;7;Visual y Audio;4633-0440;;RIVADAVIA AV. 6770
+-58.45484431;-34.63184073;4;Santander Rio;Banco;Capital federal;FLORES;7;Visual y Audio;;;DIRECTORIO AV. 1950
+-58.46035621;-34.62832619;7;Banco Patagonia;Banco;CABA;FLORES;7;Visual y Audio;;;RIVADAVIA AV. 6744
+-58.37840281;-34.62709571;2;Comafi;Banco;Contitución;CONSTITUCION;1;Visual y Audio;;;IRIGOYEN, BERNARDO de 1578
+-58.41585039;-34.63871322;7;Banco Patagonia;Banco;CABA;BOEDO;5;Visual y Audio;;;CASEROS AV. 3599
+-58.50301487;-34.65249875;1;Macro;Banco;Capital federal;MATADEROS;9;Visual y Audio;;;ALBERDI, JUAN BAUTISTA AV. 5902
+-58.5057568;-34.65474013;4;Santander Rio;Banco;Capital federal;MATADEROS;9;Visual y Audio;;;ALBERDI, JUAN BAUTISTA AV. 6224
+-58.4958969;-34.64578511;7;Banco Patagonia;Banco;CABA;MATADEROS;9;Visual y Audio;;;ALBERDI, JUAN BAUTISTA AV. 5002
+-58.47869443;-34.65799416;7;Banco Patagonia;Banco;CABA;VILLA LUGANO;8;Visual y Audio;;;PERON, EVA AV. 4902
+-58.48765531;-34.54526396;4;Santander Rio;Banco;Capital federal;SAAVEDRA;12;Visual y Audio;;;VEDIA 3626
+-58.3923805;-34.60608631;1;Macro;Banco;Congreso;BALVANERA;3;Visual y Audio;;;CALLAO AV. 264
+-58.4118517;-34.61074152;1;Macro;Banco;Capital federal;BALVANERA;3;Visual y Audio;;;RIVADAVIA AV. 3202
+-58.39906629;-34.60443683;3;ICBC;Banco;Balvanera;BALVANERA;3;Visual y Audio;;;CORRIENTES AV. 2267
+-58.39970839;-34.59982823;4;Santander Rio;Banco;Capital federal;BALVANERA;3;Visual, audio y rampa;;;CORDOBA AV. 2282
+-58.4115933;-34.60262215;5;HSBC;Banco;Capital federal;BALVANERA;3;Visual y Audio;;;AGUERO 628
+-58.41030956;-34.60421173;7;Banco Patagonia;Banco;CABA;BALVANERA;3;Visual y Audio;;;CORRIENTES AV. 3200
+-58.39188248;-34.6153499;7;Banco Patagonia;Banco;CABA;BALVANERA;3;Visual y Audio;;;ENTRE RIOS AV. 555
+-58.46975412;-34.5789599;1;Macro;Banco;Capital federal;VILLA ORTUZAR;15;Visual y Audio;;;DE LOS INCAS AV. 4138
+-58.47522207;-34.57988303;7;Banco Patagonia;Banco;CABA;VILLA ORTUZAR;15;Visual y Audio;;;TRIUNVIRATO AV. 3897
+-58.42806339;-34.57788774;4;Santander Rio;Banco;Capital federal;PALERMO;14;Visual y Audio;;;SANTA FE AV. 4846
+-58.4111773;-34.58174017;1;Macro;Banco;Capital federal;PALERMO;14;Visual y Audio;;;LAS HERAS GENERAL AV. 3701
+-58.42358285;-34.59022897;1;Macro;Banco;Capital federal;PALERMO;14;Visual y Audio;;;SCALABRINI ORTIZ, RAUL AV. 1729
+-58.41199931;-34.58800007;3;ICBC;Banco;Palermo;PALERMO;14;Visual y Audio;;;SANTA FE AV. 3316
+-58.41364859;-34.58690811;3;ICBC;Banco;Palermo;PALERMO;14;Visual y Audio;;;SANTA FE AV. 3440
+-58.40406869;-34.58326265;3;ICBC;Banco;Palermo;PALERMO;14;Visual y Audio;;;LAS HERAS GENERAL AV. 3001
+-58.44434969;-34.57000563;3;ICBC;Banco;Colegiales;PALERMO;14;Visual y Audio;;;CABILDO AV. 745
+-58.41537993;-34.58529963;4;Santander Rio;Banco;Capital federal;PALERMO;14;Visual y Audio;;;SANTA FE AV. 3655
+-58.40788275;-34.58007098;4;Santander Rio;Banco;Capital federal;PALERMO;14;Visual y Audio;;;SALGUERO, JERONIMO 2751
+-58.43993346;-34.56545234;4;Santander Rio;Banco;Capital federal;PALERMO;14;Visual y Audio;;;CAMPOS, LUIS M. AV. 1175
+-58.40804273;-34.57850613;5;HSBC;Banco;Capital federal;PALERMO;14;Visual y Audio;;;DEL LIBERTADOR AV. 2694
+-58.41316645;-34.58723215;5;HSBC;Banco;Capital federal;PALERMO;14;Visual y Audio;;;SANTA FE AV. 3400
+-58.42141564;-34.55409787;5;HSBC;Banco;Capital federal;PALERMO;14;Visual y Audio;;;OBLIGADO RAFAEL, Av.Costanera 5101
+-58.40044477;-34.56950701;5;HSBC;Banco;Capital federal;PALERMO;14;Visual y Audio;;;OBLIGADO RAFAEL, Av.Costanera y SALGUERO, JERONIMO
+-58.43735492;-34.56472752;7;Banco Patagonia;Banco;CABA;PALERMO;14;Visual y Audio;;;OLLEROS AV. 1712
+-58.4475673;-34.56840587;7;Banco Patagonia;Banco;CABA;PALERMO;14;Visual y Audio;;;CABILDO AV. 1159
+-58.47807156;-34.68701032;4;Santander Rio;Banco;Capital federal;VILLA RIACHUELO;8;Visual y Audio;;;GUAMINI 4843
+-58.52476176;-34.613547;2;Comafi;Banco;Capital federal;VILLA DEVOTO;11;Visual y Audio;4639-1024;;BEIRO, FRANCISCO AV. 5265
+-58.52476158;-34.61354681;2;Comafi;Banco;Devoto;VILLA DEVOTO;11;Visual, audio y rampa;4639-1024;;BEIRO, FRANCISCO AV. 5265
+-58.51315293;-34.60189081;4;Santander Rio;Banco;Capital federal;VILLA DEVOTO;11;Visual y Audio;;;ASUNCION 4189
+-58.51641798;-34.61045377;5;HSBC;Banco;Capital federal;VILLA DEVOTO;11;Visual y Audio;;;VARELA, JOSE PEDRO 4750
+-58.51140312;-34.59137308;7;Banco Patagonia;Banco;CABA;VILLA DEVOTO;11;Visual y Audio;;;SAN MARTIN AV. 6931
+-58.52416909;-34.63915109;7;Banco Patagonia;Banco;CABA;LINIERS;9;Visual y Audio;;;RIVADAVIA AV. 11334
+-58.36728591;-34.60033767;4;Santander Rio;Banco;Capital federal;PUERTO MADERO;1;Visual y Audio;;;MOREAU DE JUSTO, ALICIA AV. 164
+-58.38213508;-34.60959858;5;HSBC;Banco;Capital federal;MONSERRAT;1;Visual y Audio;;;LIMA 93
+-58.37660752;-34.60831012;7;Banco Patagonia;Banco;CABA;MONSERRAT;1;Visual y Audio;;;CHACABUCO 15
+-58.37440424;-34.60729859;3;ICBC;Banco;Centro;SAN NICOLAS;1;Visual y Audio;;;SAENZ PEÑA, ROQUE, PRES. AV. 567
+-58.38009174;-34.60432026;5;HSBC;Banco;Capital federal;SAN NICOLAS;1;Visual y Audio;;;SAENZ PEÑA, ROQUE, PRES. AV. 943
+-58.37587064;-34.60701662;2;Comafi;Banco;Capital federal;SAN NICOLAS;1;Visual y Audio;4347-0400;Cuenta con una entrada especial para sillas de rueda;SAENZ PEÑA, ROQUE, PRES. AV. 660
+-58.37364909;-34.60291804;4;Santander Rio;Banco;Capital federal;SAN NICOLAS;1;Visual y Audio;;;SAN MARTIN 427
+-58.37079192;-34.60427204;5;HSBC;Banco;Capital federal;SAN NICOLAS;1;Visual y Audio;;;25 DE MAYO
+-58.37358822;-34.60404252;6;Banco de Corrientes;Banco;Capital federal;SAN NICOLAS;1;No posee;;;SAN MARTIN 333
+-58.37254299;-34.60419145;1;Macro;Banco;Casa Central;SAN NICOLAS;1;Visual y Audio;;No cuenta con ingreso para silla;SARMIENTO 401
+-58.38831041;-34.60072991;2;Comafi;Banco;Tribunales;SAN NICOLAS;1;Visual y Audio;;;PARANA 696
+-58.39196741;-34.60575814;3;ICBC;Banco;Congreso;SAN NICOLAS;1;Visual y Audio;;;CALLAO AV. 291
+-58.38749312;-34.60044076;3;ICBC;Banco;Tribunales;SAN NICOLAS;1;Visual y Audio;;;VIAMONTE 1453
+-58.3808042;-34.60276523;3;ICBC;Banco;Centro;SAN NICOLAS;1;Visual y Audio;;;PELLEGRINI, CARLOS 479
+-58.38697806;-34.60384834;4;Santander Rio;Banco;Capital federal;SAN NICOLAS;1;Visual, audio y rampa;;;CORRIENTES AV. 1427
+-58.37868952;-34.60548339;4;Santander Rio;Banco;Capital federal;SAN NICOLAS;1;Visual y Audio;;;SAENZ PEÑA, ROQUE, PRES. AV. 844
+-58.37061599;-34.60241145;4;Santander Rio;Banco;Capital federal;SAN NICOLAS;1;Visual, audio y rampa;;;ALEM, LEANDRO N. AV. 456
+-58.3724023;-34.60332425;7;Banco Patagonia;Banco;CABA;SAN NICOLAS;1;Visual y Audio;;;CORRIENTES AV. 400
+-58.36872556;-34.60157161;7;Banco Patagonia;Banco;CABA;SAN NICOLAS;1;Visual y Audio;;;LAVALLE 45
+-58.3736503;-34.60579155;7;Banco Patagonia;Banco;CABA;SAN NICOLAS;1;Visual y Audio;;;PERON, JUAN DOMINGO, TTE. GENERAL 500
+-58.44241404;-34.54194081;4;Santander Rio;Banco;Capital federal;BELGRANO;13;Visual y Audio;;;
+-58.46056679;-34.5659291;4;Santander Rio;Banco;Capital federal;BELGRANO;13;Visual y Audio;;;CRAMER
+-58.45805349;-34.56306005;1;Macro;Banco;Capital federal;BELGRANO;13;Visual y Audio;;;JURAMENTO AV. 2558
+-58.45965046;-34.55828183;4;Santander Rio;Banco;Belgrano;BELGRANO;13;Visual, audio y rampa;;;CABILDO AV. 2491
+-58.45356596;-34.56514664;4;Santander Rio;Banco;Capital federal;BELGRANO;13;Visual, audio y rampa;;;CABILDO AV. 1741
+-58.45935164;-34.55862413;5;HSBC;Banco;Capital federal;BELGRANO;13;Visual y Audio;;;CABILDO AV. 2453
+-58.40102756;-34.59204874;3;ICBC;Banco;Recoleta;RECOLETA;2;Visual y Audio;;;PUEYRREDON AV. 1657
+-58.39375159;-34.58910487;3;ICBC;Banco;Recoleta;RECOLETA;2;Visual y Audio;;;LOPEZ, VICENTE 2050
+-58.39885141;-34.59550951;1;Macro;Banco;Barrio Norte;RECOLETA;2;Visual y Audio;;Ingreso a nivel;SANTA FE AV. 2220
+-58.38920899;-34.58867826;2;Comafi;Banco;Capital federal;RECOLETA;2;Visual y Audio;4804-1099;;QUINTANA, MANUEL, PRES. AV. 439
+-58.39288611;-34.59405894;2;Comafi;Banco;Capital federal;RECOLETA;2;Visual, audio y rampa;4813-4666;;CALLAO AV. 1279
+-58.40585607;-34.59300906;2;Comafi;Banco;Capital federal;RECOLETA;2;Visual, audio y rampa;4823-3119;Solo a cajero;SANTA FE AV. 2762
+-58.39945461;-34.59502006;3;ICBC;Banco;Barrio Norte;RECOLETA;2;Visual y Audio;;;SANTA FE AV. 2265
+-58.39017704;-34.59048053;3;ICBC;Banco;Recoleta;RECOLETA;2;Visual y Audio;;;CALLAO AV. 1661
+-58.38776828;-34.5959267;4;Santander Rio;Banco;Capital federal;RECOLETA;2;Visual y Audio;;;SANTA FE AV. 1450
+-58.40851848;-34.59010475;4;Santander Rio;Banco;Capital federal;RECOLETA;2;Visual y Audio;;;SANTA FE AV. 3077
+-58.40894975;-34.58974067;5;HSBC;Banco;Capital federal;RECOLETA;2;Visual y Audio;;;SANTA FE AV. 3117
+-58.40851787;-34.59062133;7;Banco Patagonia;Banco;CABA;RECOLETA;2;Visual y Audio;;;SANTA FE AV. 3060
+-58.36773657;-34.59781396;5;HSBC;Banco;Capital federal;RETIRO;1;Visual y Audio;;;
+-58.3733954;-34.59334427;5;HSBC;Banco;Capital federal;RETIRO;1;Visual y Audio;;;SAN MARTIN 1225
+-58.3733954;-34.59334427;5;HSBC;Banco;Capital federal;RETIRO;1;Visual y Audio;;;SAN MARTIN 1225
+-58.37794233;-34.59523255;1;Macro;Banco;Plaza San Martín;RETIRO;1;Visual, audio y rampa;;;SANTA FE AV. 784
+-58.38570837;-34.59145646;1;Macro;Banco;Quintana;RETIRO;1;Visual y Audio;;Ingreso a nivel;QUINTANA, MANUEL, PRES. 99
+-58.38552213;-34.59584658;1;Macro;Banco;Av. Santa Fe;RETIRO;1;Visual y Audio;;Ingreso a nivel;SANTA FE AV. 1288
+-58.37638998;-34.5985959;2;Comafi;Banco;Capital federal;RETIRO;1;Visual y Audio;;;CORDOBA AV. 669
+-58.38690868;-34.59598589;3;ICBC;Banco;Retiro;RETIRO;1;Visual y Audio;;;URUGUAY 1081
+-58.38088693;-34.59549162;3;ICBC;Banco;Retiro;RETIRO;1;Visual y Audio;;;SANTA FE AV. 964
+-58.3758821;-34.59856035;3;ICBC;Banco;Retiro;RETIRO;1;Visual y Audio;;;CORDOBA AV. 633
+-58.37298531;-34.59560615;5;HSBC;Banco;Capital federal;RETIRO;1;Visual y Audio;;;RECONQUISTA 1047
+-58.37718149;-34.59778181;5;HSBC;Banco;Capital federal;RETIRO;1;Visual y Audio;;;PARAGUAY 720
+-58.38349139;-34.58817342;5;HSBC;Banco;Capital federal;RETIRO;1;Visual y Audio;;;DEL LIBERTADOR AV. 750
+-58.37279972;-34.59548637;7;Banco Patagonia;Banco;CABA;RETIRO;1;Visual y Audio;;;ALEM, LEANDRO N. AV. 1064
+-58.37519512;-34.59628137;7;Banco Patagonia;Banco;CABA;RETIRO;1;Visual y Audio;;;FLORIDA 999
+-58.46406228;-34.54070849;7;Banco Patagonia;Banco;CABA;NUÑEZ;13;Visual y Audio;;;DEL LIBERTADOR AV. 8108
