@@ -13,7 +13,6 @@ router.get('/seccionesPoliciales', servicesBSASController.find_seccionesPolicial
 router.get('/comisariasFederal', servicesBSASController.find_comisariasFederal);
 router.get('/comisariasMetro', servicesBSASController.find_comisariasMetro);
 router.get('/cuartelesBomberos', servicesBSASController.find_cuartelesBomberos);
-router.get('/Rampas', servicesBSASController.find_rampas);
 router.get('/bancosAccesibles', servicesBSASController.find_bancosAccesibles);
 router.get('/EstablecimientosP', servicesBSASController.find_establecimientosP);
 router.get('/registrosCiviles', servicesBSASController.find_sedesRegistroCiviles);

@@ -9,7 +9,6 @@
 var readfiles = require("../models/handlerFiles");
 var path_files = "./public/files/csv/";
 
-
 //  Aqui se obtiene todos los barrios de la ciudad de BSAS
 exports.find_barrios = function(req, res, next) {
     res.setHeader('Access-Control-Allow-Origin','*');
@@ -168,17 +167,6 @@ exports.find_cuartelesBomberos = function(req, res, next) {
     res.setHeader('Access-Control-Allow-Origin','*');
     try {
         readfiles.read_Files(path_files + "cuarteles-destacamentos-bomberos-policia-federal.csv",";", function(data){
-            res.json(data);
-        });
-    } catch (e) {
-        console.log(e);
-    }
-};
-//  Aqui se obtienen las rampas para accesibilidad disponibles en la ciudad
-exports.find_rampas = function(req, res, next) {
-    res.setHeader('Access-Control-Allow-Origin','*');
-    try {
-        readfiles.read_Files(path_files + "rampas.csv",";", function(data){
             res.json(data);
         });
     } catch (e) {
